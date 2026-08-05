@@ -7,7 +7,7 @@
 - 💻 I also build web projects using **HTML, CSS and JavaScript**
 - 🌱 Currently improving my knowledge of algorithms, problem-solving and Git
 - 🚀 Interested in software development, backend development and embedded systems
-- 🌍 Bulgarian speaker with strong English and French, currently learning Spanish
+- 🌍 Native Bulgarian speaker with strong English and French, currently learning Spanish
 - 🎹 In my free time, I enjoy playing the piano, reading and travelling
 
 ---
