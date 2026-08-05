@@ -27,7 +27,7 @@
   Engineering student
 
 - 🇫🇷 **Sorbonne Université**  
-  English and American Studies, 2024–2025
+  English Language and Literature Studies, 2024–2025
 
 ---
 
@@ -70,10 +70,8 @@ A smart sensor lamp project combining Arduino development and a supporting websi
 ## 📚 Currently Learning
 
 - Data structures and algorithms
-- C programming
-- Python development
+- JavaScript
 - Backend development
-- Git and GitHub workflows
 
 ---
 
