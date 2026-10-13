@@ -1,82 +1,92 @@
-# Hi, I'm Alena 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f6feb&height=140&section=header" width="100%" alt="" />
 
-## 👩‍💻 About Me
+<h1 align="center">Hi, I'm Alena</h1>
 
-- 🎓 Engineering student at the **Technical University of Sofia**
-- 🐍 I especially enjoy programming with **Python and C**
-- 💻 I also build web projects using **HTML, CSS and JavaScript**
-- 🌱 Currently improving my knowledge of algorithms, problem-solving and Git
-- 🚀 Interested in software development, backend development and embedded systems
-- 🌍 Native Bulgarian speaker with strong English and French, currently learning Spanish
-- 🎹 In my free time, I enjoy playing the piano, reading and travelling
+<p align="center">
+  Engineering student at the Technical University of Sofia<br>
+  Python · C · Java · Web Development · Embedded Systems
+</p>
 
----
-
-## 💼 Experience and Highlights
-
-- 🔬 Completed a **240-hour internship at the Bulgarian Academy of Sciences**
-- 🐱 Developed **Sleepy Cat**, an interactive sleep-cycle calculator
-- 🎮 Helped create a **3D browser maze game** during an international Erasmus BIP project
-- 💡 Built projects involving web development, programming and Arduino
+<p align="center">
+  <a href="https://www.linkedin.com/in/alena-avramova-125b81398"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:alena.avramova1000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## 🎓 Education
+## About
 
-- 🏫 **Technical University of Sofia**  
-  Engineering student
+I'm a student at the **Technical University of Sofia** (Information Technologies in Industry) with a strong interest in software development, backend development and embedded systems. I enjoy turning small ideas into working projects, from browser games to Arduino devices.
 
-- 🇫🇷 **Sorbonne Université**  
-  English Language and Literature Studies, 2024–2025
-
----
-
-## 🚀 Featured Projects
-
-### 🐱 [Sleepy Cat](https://github.com/AlenaAvramova/sleepy-cat)
-
-A sleep-cycle calculator that recommends suitable sleeping and waking times.
-
-**Technologies:** HTML, CSS, JavaScript
-
-### 🎮 [3D Maze Game](https://github.com/AlenaAvramova/game-maze)
-
-A first-person browser maze with collectible objects, sound effects, doors and a victory system.
-
-**Technologies:** HTML, CSS, JavaScript
-
-### 💡 [Lumeny Smart Lamp](https://github.com/AlenaAvramova/lumeny-smart-lamp-project)
-
-A smart sensor lamp project combining Arduino development and a supporting website.
-
-**Technologies:** C++, Arduino, HTML, CSS
+- 🐍 Most comfortable with **Python**, **C** and **Java**
+- 🌐 Build web projects with **HTML, CSS and JavaScript**
+- 🌱 Currently improving my skills in algorithms, problem-solving and Git
+- 🗣️ Bulgarian (native) · English · French · Spanish (learning)
+- 🎹 Outside of code: piano, reading and travelling
 
 ---
 
-## 🛠️ Languages and Tools
+## Experience
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- **Internship, Bulgarian Academy of Sciences** — completed a 240-hour internship
+- **Erasmus+ BIP** — helped build a 3D browser maze game in an international team
 
 ---
 
-## 📚 Currently Learning
+## Featured Projects
 
-- Data structures and algorithms
-- JavaScript
-- Backend development
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/AlenaAvramova/sleepy-cat">Sleepy Cat</a></h3>
+      <p>Sleep-cycle calculator that recommends suitable sleeping and waking times.</p>
+      <sub><code>HTML</code> <code>CSS</code> <code>JavaScript</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/AlenaAvramova/game-maze">3D Maze Game</a></h3>
+      <p>First-person browser maze with collectibles, sound effects, doors and a victory system.</p>
+      <sub><code>HTML</code> <code>CSS</code> <code>JavaScript</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/AlenaAvramova/lumeny-smart-lamp-project">Lumeny Smart Lamp</a></h3>
+      <p>Smart sensor lamp combining Arduino development with a supporting website.</p>
+      <sub><code>C++</code> <code>Arduino</code> <code>HTML</code> <code>CSS</code></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🤝 Connect with Me
+## Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alena%20Avramova-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alena-avramova-125b81398)
+**Languages**<br>
+<img src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C-1f2937?style=flat-square&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/C++-1f2937?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alena.avramova1000@gmail.com)
+**Web**<br>
+<img src="https://img.shields.io/badge/HTML5-1f2937?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1f2937?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+
+**Tools**<br>
+<img src="https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Arduino-1f2937?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+<img src="https://img.shields.io/badge/VS_Code-1f2937?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+
+---
+
+## Currently Learning
+
+`Data Structures & Algorithms` · `JavaScript` · `Backend Development`
+
+---
+
+## Education
+
+**Technical University of Sofia** — Engineering student<br>
+**Sorbonne Université** — English Language and Literature Studies, 2024–2025
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f6feb&height=100&section=footer" width="100%" alt="" />
