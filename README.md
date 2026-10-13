@@ -1,92 +1,83 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f6feb&height=140&section=header" width="100%" alt="" />
-
-<h1 align="center">Hi, I'm Alena</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f6feb&height=220&section=header&text=Alena%20Avramova&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20Developer&descSize=20&descAlignY=60&descColor=9ecbff" width="100%" alt="Alena Avramova" />
 
 <p align="center">
-  Engineering student at the Technical University of Sofia<br>
-  Python · C · Java · Web Development · Embedded Systems
+  <a href="https://github.com/AlenaAvramova">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Engineering+student+%40+TU-Sofia;Python+%C2%B7+C+%C2%B7+Java+%C2%B7+JavaScript;I+build+web+apps%2C+games+and+Arduino+devices;Always+learning%2C+always+shipping" alt="Typing animation" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alena-avramova-125b81398"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:alena.avramova1000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/alena-avramova-125b81398"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:alena.avramova1000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open_to-Internships-2ea043?style=for-the-badge" alt="Open to internships">
 </p>
 
 ---
 
-## About
+## 👩‍💻 About Me
 
-I'm a student at the **Technical University of Sofia** (Information Technologies in Industry) with a strong interest in software development, backend development and embedded systems. I enjoy turning small ideas into working projects, from browser games to Arduino devices.
+I'm a student at the **Technical University of Sofia** (Information Technologies in Industry) who loves turning small ideas into working projects, from browser games to smart Arduino devices. I'm drawn to software development, backend development and embedded systems.
 
-- 🐍 Most comfortable with **Python**, **C** and **Java**
-- 🌐 Build web projects with **HTML, CSS and JavaScript**
-- 🌱 Currently improving my skills in algorithms, problem-solving and Git
-- 🗣️ Bulgarian (native) · English · French · Spanish (learning)
-- 🎹 Outside of code: piano, reading and travelling
-
----
-
-## Experience
-
-- **Internship, Bulgarian Academy of Sciences** — completed a 240-hour internship
-- **Erasmus+ BIP** — helped build a 3D browser maze game in an international team
+```text
+🎓 Education     →  Technical University of Sofia
+🔬 Internship    →  Bulgarian Academy of Sciences (240 hours)
+🌍 Languages     →  Bulgarian (native) · English · French · Spanish (learning)
+🌱 Focus         →  Algorithms · Problem-solving · Backend · Git
+🎹 Off-screen    →  Piano · Reading · Travelling
+```
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/AlenaAvramova/sleepy-cat">Sleepy Cat</a></h3>
-      <p>Sleep-cycle calculator that recommends suitable sleeping and waking times.</p>
-      <sub><code>HTML</code> <code>CSS</code> <code>JavaScript</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/AlenaAvramova/game-maze">3D Maze Game</a></h3>
-      <p>First-person browser maze with collectibles, sound effects, doors and a victory system.</p>
-      <sub><code>HTML</code> <code>CSS</code> <code>JavaScript</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/AlenaAvramova/lumeny-smart-lamp-project">Lumeny Smart Lamp</a></h3>
-      <p>Smart sensor lamp combining Arduino development with a supporting website.</p>
-      <sub><code>C++</code> <code>Arduino</code> <code>HTML</code> <code>CSS</code></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,arduino,vscode&theme=dark" alt="Tech stack" />
+</p>
 
 ---
 
-## Tech Stack
+## 🚀 Featured Projects
 
-**Languages**<br>
-<img src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C-1f2937?style=flat-square&logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/C++-1f2937?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+<p align="center">
+  <a href="https://github.com/AlenaAvramova/sleepy-cat"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlenaAvramova&repo=sleepy-cat&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&hide_border=true" alt="Sleepy Cat" /></a>
+  <a href="https://github.com/AlenaAvramova/game-maze"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlenaAvramova&repo=game-maze&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&hide_border=true" alt="3D Maze Game" /></a>
+  <a href="https://github.com/AlenaAvramova/lumeny-smart-lamp-project"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlenaAvramova&repo=lumeny-smart-lamp-project&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&hide_border=true" alt="Lumeny Smart Lamp" /></a>
+</p>
 
-**Web**<br>
-<img src="https://img.shields.io/badge/HTML5-1f2937?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1f2937?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-
-**Tools**<br>
-<img src="https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Arduino-1f2937?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-<img src="https://img.shields.io/badge/VS_Code-1f2937?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+| Project | What it does | Stack |
+|---|---|---|
+| 🐱 **[Sleepy Cat](https://github.com/AlenaAvramova/sleepy-cat)** | Sleep-cycle calculator that recommends sleeping and waking times | `HTML` `CSS` `JavaScript` |
+| 🎮 **[3D Maze Game](https://github.com/AlenaAvramova/game-maze)** | First-person browser maze with collectibles, sound effects, doors and a victory system, built during an Erasmus+ BIP | `HTML` `CSS` `JavaScript` |
+| 💡 **[Lumeny Smart Lamp](https://github.com/AlenaAvramova/lumeny-smart-lamp-project)** | Smart sensor lamp combining Arduino development with a supporting website | `C++` `Arduino` `HTML` `CSS` |
 
 ---
 
-## Currently Learning
+## 📊 GitHub Stats
 
-`Data Structures & Algorithms` · `JavaScript` · `Backend Development`
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlenaAvramova&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaAvramova&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AlenaAvramova&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub streak" />
+</p>
 
 ---
 
-## Education
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-1f6feb?style=for-the-badge" alt="DSA">
+  <img src="https://img.shields.io/badge/JavaScript-1f6feb?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Backend_Development-1f6feb?style=for-the-badge" alt="Backend">
+</p>
+
+---
+
+## 🎓 Education
 
 **Technical University of Sofia** — Engineering student<br>
 **Sorbonne Université** — English Language and Literature Studies, 2024–2025
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f6feb&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f6feb&height=110&section=footer" width="100%" alt="" />
