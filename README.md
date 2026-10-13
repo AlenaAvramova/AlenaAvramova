@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Alena%20Avramova&fontSize=58&fontColor=58a6ff&animation=fadeIn&fontAlignY=45&desc=Engineering%20Student%20%7C%20Developer&descSize=22&descAlignY=68&descColor=9ecbff" width="100%" alt="Alena Avramova" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,50:12203f,100:1f4fb8&height=240&section=header&text=Alena%20Avramova&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Engineering%20Student%20%7C%20Developer&descSize=22&descAlignY=66&descColor=9ecbff" width="100%" alt="Alena Avramova" />
 
 <p align="center">
   <a href="https://github.com/AlenaAvramova">
@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a student at the **Technical University of Sofia** who loves turning small ideas into working projects, from browser games to smart Arduino devices. I'm drawn to software development, backend development and embedded systems.
+I'm a student at the **Technical University of Sofia** (Intelligent Technologies in Industry) who loves turning small ideas into working projects, from browser games to smart Arduino devices. I'm drawn to software development, backend development and embedded systems.
 
 | | |
 |---|---|
@@ -79,3 +79,5 @@ I'm a student at the **Technical University of Sofia** who loves turning small i
 
 **Technical University of Sofia** — Engineering student<br>
 **Sorbonne Université** — English Language and Literature Studies, 2024–2025
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,50:12203f,100:1f4fb8&height=100&section=footer&animation=twinkling" width="100%" alt="" />
