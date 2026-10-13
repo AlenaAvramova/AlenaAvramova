@@ -78,7 +78,6 @@ I'm a student at the **Technical University of Sofia** who loves turning small i
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-1f6feb?style=for-the-badge" alt="DSA">
   <img src="https://img.shields.io/badge/Java-1f6feb?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-1f6feb?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/Backend_Development-1f6feb?style=for-the-badge" alt="Backend">
 </p>
 
