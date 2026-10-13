@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a student at the **Technical University of Sofia** (Intelligent Technologies in Industry) who loves turning small ideas into working projects, from browser games to smart Arduino devices. I'm drawn to software development, backend development and embedded systems.
+I'm a student at the **Technical University of Sofia** who loves turning small ideas into working projects, from browser games to smart Arduino devices. I'm drawn to software development, backend development and embedded systems.
 
 | | |
 |---|---|
