@@ -77,6 +77,8 @@ A smart sensor lamp project combining Arduino development and a supporting websi
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alena_Avramova-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alena-avramova-125b81398)
+## 🤝 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alena.avramova1000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alena%20Avramova-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alena-avramova-125b81398)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alena.avramova1000@gmail.com)
